@@ -1,7 +1,7 @@
 # 1.5D-SSA
 Matlab code for A Novel Spectral-Spatial Singular Spectrum Analysis Technique for Near Real-Time In Situ Feature Extraction in Hyperspectral Imaging, JSTARS, 2020
 
-Usage: Run demo.m in Matlab. 
+Usage: Run Demo.m in Matlab. 
 if you are interested in this work or have any questions, please directly contact me. Email: hangf_upc@163.com
 
 If you use this code, please kindly cite the paper:
